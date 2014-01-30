@@ -92,7 +92,7 @@
 
 
 // combined the save and delete based on the tag.
-- (IBAction)buttonPressed:(UIBarButtonItem *)sender
+- (IBAction)clearSaveBTN:(UIButton *)sender
 {
     if (sender != nil)
     {

@@ -24,7 +24,7 @@
 
 
 // IBAction
--(IBAction)buttonPressed:(UIButton *)sender;
+-(IBAction)clearSaveBTN:(UIButton *)sender;
 
 
 @end
